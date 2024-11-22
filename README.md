@@ -38,6 +38,8 @@ pip install -r requirements.txt
 bash
 jupyter notebook
 
+```
+
 **Author**  
 Evelyn Casillas  
 National University - ANA 500: Python for Data Science
