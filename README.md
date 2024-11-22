@@ -7,20 +7,20 @@ The objective of this project is to use machine learning techniques to predict s
 **Methodology**  
 To achieve the goal of predicting student outcomes, the following steps were implemented:
 
-Data Preprocessing: Clean and prepare the raw data for analysis.
-Exploratory Data Analysis (EDA): Analyze and visualize the data to identify trends, patterns, and potential relationships between exam scores and other variables.
-Data Visualizations: Create visual representations of the data to gain insights and communicate findings.
-Predictive Modeling: Apply machine learning models to predict whether a student will pass or fail based on their exam scores.
+Data Preprocessing: Clean and prepare the raw data for analysis.  
+Exploratory Data Analysis (EDA): Analyze and visualize the data to identify trends, patterns, and potential relationships between exam scores and other variables.  
+Data Visualizations: Create visual representations of the data to gain insights and communicate findings.  
+Predictive Modeling: Apply machine learning models to predict whether a student will pass or fail based on their exam scores.  
 
 **Technologies and Tools Used**  
-Python (Jupyter Notebooks) for data analysis and modeling.
-Pandas & NumPy for data manipulation.
-Matplotlib for data visualization.
-Scikit-Learn for building and evaluating machine learning models.
+Python (Jupyter Notebooks) for data analysis and modeling.  
+Pandas & NumPy for data manipulation.  
+Matplotlib for data visualization.  
+Scikit-Learn for building and evaluating machine learning models.  
 
 **Models Used**  
-Logistic Regression: A classification model used to predict binary outcomes, such as pass/fail.
-Support Vector Machine (SVM): A powerful classification model used to separate data into different classes.
+Logistic Regression: A classification model used to predict binary outcomes, such as pass/fail.  
+Support Vector Machine (SVM): A powerful classification model used to separate data into different classes.  
 
 **Dataset**  
 The dataset used in this project is provided by Kaggle and contains historical exam scores along with additional features that may influence a student's exam results.
