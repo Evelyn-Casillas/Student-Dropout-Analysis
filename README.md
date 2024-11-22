@@ -32,8 +32,10 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/your-username/student-exam-scores-prediction.git
 
+bash
 pip install -r requirements.txt
 
+bash
 jupyter notebook
 
 **Author**  
