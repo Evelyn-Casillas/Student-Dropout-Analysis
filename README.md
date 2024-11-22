@@ -28,24 +28,13 @@ The dataset used in this project is provided by Kaggle and contains historical e
 **Getting Started**  
 Clone this repository to your local machine:
 
-bash  
-Copy code  
-git clone https://github.com/your-username/student-exam-scores-prediction.git  
-Install the necessary dependencies:
-
 ### To clone the repository:
 ```bash
 git clone https://github.com/your-username/student-exam-scores-prediction.git
 
-bash  
-Copy code  
-pip install -r requirements.txt  
-Run the Jupyter Notebook to start the analysis:  
+pip install -r requirements.txt
 
-bash  
-Copy code  
-jupyter notebook  
-The raw data can be found in the repository, or you can download it directly from Kaggle.  
+jupyter notebook
 
 **Author**  
 Evelyn Casillas  
