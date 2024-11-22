@@ -31,7 +31,11 @@ Clone this repository to your local machine:
 bash  
 Copy code  
 git clone https://github.com/your-username/student-exam-scores-prediction.git  
-Install the necessary dependencies:  
+Install the necessary dependencies:
+
+### To clone the repository:
+```bash
+git clone https://github.com/your-username/student-exam-scores-prediction.git
 
 bash  
 Copy code  
