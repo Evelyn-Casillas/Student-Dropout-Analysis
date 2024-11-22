@@ -1,4 +1,5 @@
 Student Exam Scores Prediction
+
 This repository contains the final project for the ANA 500: Python for Data Science course at National University. The goal of this project is to predict student outcomes, specifically whether a student will pass or fail based on their exam scores. Understanding the factors that influence exam scores can help identify students at risk of failing, enabling early intervention and support.
 
 Project Introduction and Objective
