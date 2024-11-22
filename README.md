@@ -30,7 +30,7 @@ Clone this repository to your local machine:
 
 ### To clone the repository:
 ```bash
-git clone https://github.com/your-username/student-exam-scores-prediction.git
+git clone https://github.com/Evelyn-Casillas/Student-ExamScores-Analysis.git
 ```
 ### Install necessary dependencies:
 ```bash
